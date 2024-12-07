@@ -1,0 +1,27 @@
+Source,Target,Weight
+Tony, Carmela, 100
+Tony, Christopher, 80
+Tony, Paulie, 50
+Tony, Silvio, 50
+Tony, Melfi, 60
+Tony, Junior, 60
+Tony, Meadow, 30
+Carmela, Melfi, 15
+Carmela, Meadow, 50
+Carmela, Silvio, 10
+Carmela, Paulie, 10
+Carmela, Adriana, 30
+Christopher, Carmela, 40
+Christopher, Adriana, 60
+Christopher, Paulie, 60
+Christopher, Silvio, 40
+Paulie, Silvio, 60
+Paulie, Junior, 10
+Paulie, Adriana, 10
+Paulie, Furio, 25
+Junior, Bobby, 80
+Junior, Silvio, 20
+Junior, Christopher, 20
+Furio, Carmela, 35
+Furio, Christopher, 25
+Furio, Paulie, 30
